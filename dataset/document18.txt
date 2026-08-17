@@ -1,0 +1,3 @@
+Digital payments allow people to transfer money electronically without using
+physical cash. Mobile payment applications, bank transfers, cards, and digital
+wallets provide convenient methods for making financial transactions.

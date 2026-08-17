@@ -1,0 +1,4 @@
+Supply chain management coordinates the movement of raw materials, products,
+information, and money from suppliers to customers. Inventory management,
+transportation, warehousing, procurement, and demand forecasting are important
+supply chain activities.

@@ -1,0 +1,4 @@
+Satellite communication uses artificial satellites to transmit information
+between distant locations. Satellites support television broadcasting, internet
+services, navigation, weather observation, emergency communication, and
+scientific research.

@@ -1,0 +1,4 @@
+Weather forecasting predicts atmospheric conditions such as temperature,
+rainfall, wind, and storms. Meteorologists use weather stations, satellites,
+radar systems, computer models, and historical observations to prepare
+forecasts.
